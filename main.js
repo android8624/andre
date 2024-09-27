@@ -10,6 +10,7 @@ function mult(num1,num2){
 }
 console.log(mult(4,6));
 
-function areaQuadrad(lado){
+function areaQuadrado(lado){
     return lado**2;
 }
+console.log(areaQuadrado(8))
