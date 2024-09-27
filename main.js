@@ -19,3 +19,5 @@ let media = function(num1,num2,num3){
 return (num1+num2+num3)/3;
 }
 console.log(media(20,5,5))
+
+let nome = parseInt(prompt('qual é sua nota do terceiro trimestre?'))
