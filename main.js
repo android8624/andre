@@ -18,4 +18,4 @@ console.log(areaQuadrado(8))
 let media = function(num1,num2,num3){
 return (num1+num2+num3)/3;
 }
-console.log(media(10,5,5))
+console.log(media(20,5,5))
