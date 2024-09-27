@@ -14,3 +14,7 @@ function areaQuadrado(lado){
     return lado**2;
 }
 console.log(areaQuadrado(8))
+let media = function(){
+return
+}
+console.log()
