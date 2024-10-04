@@ -33,4 +33,9 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
      'Rio Grande do Norte', 'Ceará', 'Piauí', 'Maranhão', 'Tocantins', 'Goiás', 'Distrito Federal', 'Mato Grosso', 'Mato Grosso do Sul',
       'Acre', 'Amapá', 'Pará', 'Amazonas', 'Roraima', 'Santa Catarina', 'Rio Grande do Sul', 'Paraná','Rondônia'];
 
+      let i = 0;
+      while (i<13){
+        console.log(i);
+        i=i+1;
+      }
   
