@@ -43,11 +43,12 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
         console.log(j)    
          console.log(estados[j]);  
     }
-    let idade = 16;
+    let idade1 = parseInt (pronpt('qual a sua idade?'));
+    let idade = idade1
   if (idade > 17) {
     console.log('pode dirigir');
   }
   else {
  console.log('ilegal dirigir');
   }
-  let idade1 = parseInt (pronpt('qual a sua idade?'));
+  
