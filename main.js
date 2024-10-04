@@ -43,4 +43,10 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
         console.log(j)    
          console.log(estados[j]);  
     }
-  
+    let idade = 16;
+  if (idade > 17) {
+    .console.log('pode dirigir')
+  }
+  else {
+ console('ilegal dirigir');
+  }
