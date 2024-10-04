@@ -39,7 +39,7 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
     //     console.log(estados[i]);
     //     i++
     //   }
-    for (let j = 0; j< estados.length; j++estados     
+    for (let j = 0; j< estados.length; j++){     
          console.log(estados[j]);  
     }
   
