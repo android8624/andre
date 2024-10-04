@@ -35,6 +35,7 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
 
       let i = 0;
       while (i<27){
+        console.log(i)
         console.log(estados[i]);
         i++;
       }
