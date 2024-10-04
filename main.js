@@ -36,6 +36,6 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
       let i = 0;
       while (i<13){
         console.log(i);
-        i=i+1;
+        i++;
       }
   
