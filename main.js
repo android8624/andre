@@ -20,11 +20,11 @@ return (num1+num2+num3)/3;
 }
 console.log(media(20,5,5))
 
-let nome = parseInt(prompt('qual é sua nota do primeiro trimestre?'));
-(prompt('qual é sua nota do segundo trimestre?'));
-(prompt('qual é sua nota do terceiro trimestre?'));
-let media = function(num1,num2,num3)
+let num1 = parseInt(prompt('qual é sua nota do primeiro trimestre?'));
+let num2 = parseInt(prompt('qual é sua nota do segundo trimestre?'));
+let num3 = parseInt(prompt('qual é sua nota do terceiro trimestre?'));
+function media = (num1,num2,num3)
 {
-    return (num1+num2+num3)/3
+    return (num1+num2+num3)/3;
 }
-console.log(media())
+document.write(media(num1,num2,num3));
