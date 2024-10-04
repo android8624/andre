@@ -48,5 +48,5 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
     console.log('pode dirigir');
   }
   else {
- console('ilegal dirigir');
+ console.log('ilegal dirigir');
   }
