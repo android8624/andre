@@ -33,10 +33,13 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
      'Rio Grande do Norte', 'Ceará', 'Piauí', 'Maranhão', 'Tocantins', 'Goiás', 'Distrito Federal', 'Mato Grosso', 'Mato Grosso do Sul',
       'Acre', 'Amapá', 'Pará', 'Amazonas', 'Roraima', 'Santa Catarina', 'Rio Grande do Sul', 'Paraná','Rondônia'];
 
-      let i = 0;
-      while (i<estados.length){
-        console.log(i)
-        console.log(estados[i]);
-        i++
-      }
+    //   let i = 0;
+    //   while (i<estados.length){
+    //     console.log(i)
+    //     console.log(estados[i]);
+    //     i++
+    //   }
+    for (let j = 0; j< estados.length; j++estados     
+         console.log(estados[j]);  
+    }
   
