@@ -50,3 +50,4 @@ let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Espírito Santo'
   else {
  console.log('ilegal dirigir');
   }
+  let idade1 = parseInt (pronpt('qual a sua idade?'));
